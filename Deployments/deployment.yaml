@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
       - name: mycont1
-        image: pavanlearningdevops/practicedocker:sampleapp
+        image: pavanlearningdevops/practicedocker:python
         ports:
         - containerPort: 80
